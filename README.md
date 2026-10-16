@@ -166,9 +166,7 @@ To force a complete restart, uncomment the cleanup cell above the training loop 
 
 If you use this pipeline, please cite:
 
-A Two-Stage Fusion-based Deep Learning Classifier for Indian Skin Disease
-
-Tawseef Ahmed Teli and et al.
+A Two-Stage Fusion-based Deep Learning Classifier for Indian Skin Disease, Tawseef Ahmed Teli et al.
 
 ---
 
